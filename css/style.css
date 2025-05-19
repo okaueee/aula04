@@ -1,0 +1,36 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+
+afont-face{
+    font-family: roboto mono;
+    src:  url('../font/Arimo-VariableFont_wght.ttf'); */O conceito geral é que utiliza-se src
+     quando queremos carregar e inserir o conteúdo do link naquele local da página*/
+
+
+
+*{
+  margin: 0;  
+}
+
+.fundo{  
+
+    background-color: tomato;
+    background-image: url('../img/dragonball.png');
+    background-size:contain;
+    height: 100vh; /*para definir a altura de um elemento*/
+    align-content center; /*lign-content serve para definir como as linhas de conteúdo são distribuídas 
+    
+}
+
+.titulo{       
+
+    color: #f2f2f2;
+   text-align: center; /*A propriedade CSS text-align serve para controlar o alinhamento*/
+   font-size:  50px;  /
+
+  font-family /*serve para definir a família de fontes a ser usada para um elemento de texto*/
+
+
+}
+}
+}
